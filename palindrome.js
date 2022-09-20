@@ -9,5 +9,5 @@ function isPalindrome(string){
 	if(flag){
 		return true;
 	}
-	return true;
+	return false;
 }
